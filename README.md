@@ -35,13 +35,6 @@ Here are some ideas to get you started:
   <a href = "mailto:raqueldias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/rdiascodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>    
   
-  </div>
-  
-<!--
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
--->
- 
   ![Snake animation](https://github.com/rd-codes/rd-codes/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+   </div>
