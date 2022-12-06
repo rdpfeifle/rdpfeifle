@@ -1,44 +1,19 @@
-### Hi there! I'm Raquel Dias 👋
+# 👩🏻 Hi there, I'm Raquel! 
+# 💫 About Me:
+<br>- 🔭 I’m currently working on [Tripaholics](https://github.com/rdpfeifle/Travel-web-app)
+<br>- 📫 Email: raquelpfeifle@gmail.com
+<br>- 👩🏻 Pronouns: She/her 
 
-<!--
-**rd-codes/rd-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials Links:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raqueldpfeifle/)   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelpfeifle@gmail.com?subject=The%20subject%20of%20the%20mail)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/rd-codes">
- <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rd-codes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd-codes&layout=compact&langs_count=7&theme=omni"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rdpfeifle&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rdpfeifle&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdpfeifle&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  
-</div>
-  
-  ##
-    
-  <a href = "mailto:raqueldias.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/rdiascodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>    
-  
-  ![Snake animation](https://github.com/rd-codes/rd-codes/blob/output/github-contribution-grid-snake.svg)
- 
-   </div>
+[![](https://visitcount.itsvg.in/api?id=rdpfeifle&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
