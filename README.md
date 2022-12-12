@@ -1,8 +1,8 @@
 # 👩🏻 Hi there, I'm Raquel! 
 # 💫 About Me:
 <br>- 🔭 I’m currently working on [Tripaholics](https://github.com/rdpfeifle/Travel-web-app)
-<br>- 📫 Email: raquelpfeifle@gmail.com
 <br>- 👩🏻 Pronouns: She/her 
+<br>- 🌱 I’m currently learning: TypeScript
 
 
 ## 🌐 Socials Links:
