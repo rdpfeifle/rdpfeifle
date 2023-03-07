@@ -3,7 +3,7 @@
 <br>- 🎓 I'm a proud graduate of the Hackbright Academy Bootcamp
 <br>- 🔭 I’m currently working on [Tripaholics](https://github.com/rdpfeifle/Travel-web-app)
 <br>- 👩🏻 Pronouns: She/her 
-<br>- 🌱 I’m currently learning: TypeScript
+<br>- 🌱 I’m currently learning: DSA, TypeScript, Jest and Shopify Liquid
 
 
 ## 🌐 Socials Links:
