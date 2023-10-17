@@ -16,4 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=rdpfeifle&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rdpfeifle)](https://git.io/streak-stats)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=rdpfeifle&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rdpfeifle&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in) 
+ 
