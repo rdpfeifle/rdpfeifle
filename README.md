@@ -1,8 +1,6 @@
 # 👩🏻 Hi there, I'm Raquel! 
 # 💫 About Me:
-<br>- 🎓 I'm a proud graduate of the Hackbright Academy Bootcamp
-<br>- 👩🏻 Pronouns: She/her 
-<br>- 🌱 I’m currently learning: DSA, Next.js, TypeScript, and Shopify Liquid
+👩🏻 Pronouns: She/her 
 
 
 ## 🌐 Socials Links:
